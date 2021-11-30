@@ -1,10 +1,3 @@
-
-### Fields
-
-> Frontend & UI
-
-### Some Tools I Use
-
 <h5>Language & Runtime</h5>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
