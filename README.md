@@ -19,6 +19,7 @@
 <p>
   <img alt="Chakra UI" src="https://img.shields.io/badge/chakra-%234ED1C5?flat-square&logo=chakraui&logoColor=white" />
   <img alt="material-ui" src="https://img.shields.io/badge/-Material_UI-0081cb?style=flat-square&logo=material-ui&logoColor=white" />
+  <img alt="emotion-ui" src="https://img.shields.io/badge/emotion?style=flat-square" />
 </p>
 
 <h5>Database</h5>
