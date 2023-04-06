@@ -14,6 +14,7 @@
   <img alt="GraphQL"
     src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="SaSS" src="https://img.shields.io/badge/-SaSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="supabase" src="https://img.shields.io/badge/Supabase-%20-green" />
 </p>
 <h5>Design System</h5>
 <p>
