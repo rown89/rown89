@@ -3,7 +3,8 @@
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="NodeJs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg??style=flat-square&logo=dart&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 <h5>Library & Framework</h5>
